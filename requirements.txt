@@ -1,0 +1,12 @@
+accelerate==1.10.0
+diffusers @ git+https://github.com/huggingface/diffusers.git@22b229ba66533fd3e6ce3b8568b5a5ee8ed207dc
+huggingface-hub==0.34.3
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+requests==2.32.4
+streamlit==1.48.0
+tokenizers==0.21.4
+transformers==4.55.4
+streamlit_lottie
+torch==2.8.0
+nvidia-smi==0.1.3
