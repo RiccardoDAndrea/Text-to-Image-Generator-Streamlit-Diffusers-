@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ### Docker 
 ```bash
-docker pull streamlit-t2i
+docker push riccardodandrea/streamlit-t2i:latest
 ```
 
 ### ▶️ Run the application
