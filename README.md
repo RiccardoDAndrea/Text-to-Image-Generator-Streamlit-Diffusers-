@@ -82,6 +82,11 @@ venv\\Scripts\\activate    # Windows
 pip install -r requirements.txt
 ```
 
+### Docker 
+```bash
+docker pull streamlit-t2i
+```
+
 ### ▶️ Run the application
 ```bash
 streamlit run app.py
